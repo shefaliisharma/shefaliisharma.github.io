@@ -5,8 +5,9 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 
 ## 💼 Professional Experience
 - **Equity Data Specialist at Bloomberg**
-  - Enhanced Broker Feedback Loop Reports by integrating advanced functions in Python scripts.
-  - Collaborated with diverse teams to improve data quality and functionality.
+  - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
+  - Was involved in analyzing market regulations & trends, improving data processes, and collaborating across departments within several business initiatives to support product development
+  - Collaborated with diverse teams to improve data quality and functionality
 
 - **Financial Analyst at J.P. Morgan**
   - Collaborated across finance departments to support reporting requirements, leading various projects and resolving system issues to enhance reporting accuracy and efficiency.
@@ -26,7 +27,7 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 - LinkedIn: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
 - Email: [shefali.finance@gmail.com](mailto:shefali.finance@gmail.com)
 
-I'm always open to interesting conversations and opportunities. Let's connect!
+### I'm always open to interesting conversations and opportunities. Let's connect!
 
 ## 🔍 Looking Forward
 I am particularly interested in roles that allow me to dive deeper into data analytics within the business, finance, or healthcare sectors. If you're looking for someone who can transform data into decisions, let's talk!
