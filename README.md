@@ -6,12 +6,12 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 ## 💼 Professional Experience
 - **Equity Data Specialist at Bloomberg**
   - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
-  - Was involved in analyzing market regulations & trends, improving data processes, and collaborating across departments within several business initiatives to support product development
-  - Collaborated with diverse teams to improve data quality and functionality
+  - Was involved in analyzing market regulations & trends, improving data processes, and collaborating across departments within several business initiatives to support product development.
+  - Collaborated with diverse teams to improve data quality and functionality.
 
 - **Financial Analyst at J.P. Morgan**
-  - Collaborated across finance departments to support reporting requirements, leading various projects and resolving system issues to enhance reporting accuracy and efficiency.
-  - Continuously improvemed business process efficieny and automated them using Alteryx.
+  - Collaborated across finance departments to support reporting requirements, working on various projects and resolving system issues to enhance reporting accuracy and efficiency.
+  - Continuously improvemed business process efficieny and automated them using Alteryx and Tableau.
 
 ## 🎓 Education
 - **MBA in Finance**, [T A Pai Management Institute](https://www.tapmi.edu.in/programs/mba/), 2020
@@ -27,7 +27,7 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 - LinkedIn: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
 - Email: [shefali.finance@gmail.com](mailto:shefali.finance@gmail.com)
 
-### I'm always open to interesting conversations and opportunities. Let's connect!
+### I'm always open to interesting conversations and opportunities. Let's connect! 
 
 ## 🔍 Looking Forward
 I am particularly interested in roles that allow me to dive deeper into data analytics within the business, finance, or healthcare sectors. If you're looking for someone who can transform data into decisions, let's talk!
