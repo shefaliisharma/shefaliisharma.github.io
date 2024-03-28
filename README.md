@@ -3,6 +3,9 @@
 ## 🚀 About Me
 I'm a Data Analyst with a passion for turning data into actionable insights and powerful stories. With experience at renowned firms like Bloomberg and JPMorgan, I've honed my skills in data analysis, financial reporting, and market trend analysis. I'm now exploring opportunities in Toronto, Canada, aiming to leverage my skills in new and challenging environments.
 
+## 📊 Data Project:
+- [holymoly](https://shefaliisharma.github.io/holymoly): Anlaysis of Apple Music Data using PostgreSQL + Python. Click on the name to find out more!
+
 ## 💼 Professional Experience
 - **Equity Data Specialist at Bloomberg**
   - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
