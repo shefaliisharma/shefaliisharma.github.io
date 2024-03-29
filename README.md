@@ -14,11 +14,11 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 
 - **Financial Analyst at J.P. Morgan**
   - Collaborated across finance departments to support reporting requirements, working on various projects and resolving system issues to enhance reporting accuracy and efficiency.
-  - Continuously improvemed business process efficieny and automated them using Alteryx and Tableau.
+  - Continuously improved business process efficiency and automated them using Alteryx and Tableau.
 
 ## 🎓 Education
 - **MBA in Finance**, [T A Pai Management Institute](https://www.tapmi.edu.in/programs/mba/), 2020
-- **B.Pharm**, IIT BHU, 2017
+- **B.Pharm**, [IIT BHU](https://iitbhu.ac.in/dept/phe), 2017
 
 ## 🛠 Skills
 - Advanced SQL and Python programming
