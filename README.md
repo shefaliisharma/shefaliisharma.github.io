@@ -3,9 +3,16 @@
 ## 🚀 About Me
 I'm a Data Analyst with a passion for turning data into actionable insights and powerful stories. With experience at renowned firms like Bloomberg and JPMorgan, I've honed my skills in data analysis, financial reporting, and market trend analysis. I'm now exploring opportunities in Toronto, Canada, aiming to leverage my skills in new and challenging environments.
 
-## 📊 Data Project:
-- [holymoly](https://shefaliisharma.github.io/holymoly): Anlaysis of Apple Music Data using PostgreSQL + Python. Click on the name to find out more!
+---
+# 📊 Data Projects:
 
+ [![holymoly](https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?q=80&w=3126&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://shefaliisharma.github.io/holymoly) | 
+|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|                                                                            **[Apple Music Dataset SQL Analysis](shefaliisharma.github.io/holymoly)**                                                                             |
+|                                                  Exploratory Analysis of Apple Music Data using PostgreSQL \| Charts are generated using Python Libraries: seaborn, matplotlib                                                   |
+
+
+---
 ## 💼 Professional Experience
 - **Equity Data Specialist at Bloomberg**
   - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
@@ -18,7 +25,7 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 
 ## 🎓 Education
 - **MBA in Finance**, [T A Pai Management Institute](https://www.tapmi.edu.in/programs/mba/), 2020
-- **B.Pharm**, [IIT BHU](https://iitbhu.ac.in/dept/phe), 2017
+- **B.Pharm**, [Indian Institute of Technology, Varanasi](https://iitbhu.ac.in/dept/phe), 2017
 
 ## 🛠 Skills
 - Advanced SQL and Python programming
