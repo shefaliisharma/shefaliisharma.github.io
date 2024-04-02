@@ -34,8 +34,9 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 - Excellent written and verbal communication
 
 ## 🤝 Connect with Me
-- LinkedIn: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
-- Email: [shefali.finance@gmail.com](mailto:shefali.finance@gmail.com)
+<img src="assets/LI-In-Bug.png" alt="LinkedIn" width="16" height="13">: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
+
+<img src="assets/gmail.png" alt="email" width="16" height="12">: [shefali.finance@gmail.com](mailto:shefali.finance@gmail.com)
 
 ### I'm always open to interesting conversations and opportunities. Let's connect! 
 
