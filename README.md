@@ -28,10 +28,10 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 - **B.Pharm**, [Indian Institute of Technology, Varanasi](https://iitbhu.ac.in/dept/phe), 2017
 
 ### 👩🏽‍💻 Online Education 
-- Exploratory Data Analysis in SQL, **Datacamp** | [View Certificate](assets/shefalisharma_sql_certificate.pdf) 
-- Window Functions Course, **LearnSQL.com** | [View Certificate](https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa)
-- Financial & Valuation Modeling, **Wall Street Prep** | [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
-- Using Python for Research, **HarvardX** | [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93) 
+- Exploratory Data Analysis in SQL, **Datacamp** \| [View Certificate](assets/shefalisharma_sql_certificate.pdf) 
+- Window Functions Course, **LearnSQL.com** \| [View Certificate](https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa)
+- Financial & Valuation Modeling, **Wall Street Prep** \| [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
+- Using Python for Research, **HarvardX** \| [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93) 
 
 ## 🛠 Skills
 - Advanced SQL and Python programming
