@@ -6,13 +6,10 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 ---
 # 📊 Data Projects:
 
-|  [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)   | 
-|:---------------------------------------------------------------------------------:|
-| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)** |
-|                Exploratory Analysis \| Technologies: SQL & Python                 
-| [![goodgrief](assets/goodgrief.jpg)](https://shefaliisharma.github.io/goodgrief)  |
-|     **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**      |
-|               Storytelling with Data \| Technologies: SQL & Tableau               |
+| [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)    | [![goodgrief](assets/goodgrief.jpeg)](https://shefaliisharma.github.io/goodgrief) |
+|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)** | **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**          |
+| Exploratory Analysis \| **Technologies**: SQL & Python                            | Storytelling with Data \| **Technologies**: SQL & Tableau                         |
 
 ---
 ## 🛠️ Tools & Technologies Overview:
