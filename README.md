@@ -6,13 +6,26 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 ---
 # 📊 Data Projects:
 
-| [![holymoly](https://images.unsplash.com/photo-1609081219090-a6d81d3085bf?q=80&w=3126&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)](https://shefaliisharma.github.io/holymoly) | 
-|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
-|                                                                        **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)**                                                                         |
-|                                                  Exploratory Analysis of Apple Music Data using PostgreSQL \| Charts are generated using Python Libraries: seaborn, matplotlib                                                   |
-
+|  [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)   | 
+|:---------------------------------------------------------------------------------:|
+| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)** |
+|                Exploratory Analysis \| Technologies: SQL & Python                 
+| [![goodgrief](assets/goodgrief.jpg)](https://shefaliisharma.github.io/goodgrief)  |
+|     **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**      |
+|               Storytelling with Data \| Technologies: SQL & Tableau               |
 
 ---
+## 🛠️ Tools & Technologies Overview:
+
+| Tech                      | Tool           |
+|---------------------------|----------------|
+| Exploratory Data Analysis | SQl & MS Excel |
+| Data Extraction           | SQL            |
+| Data Transformation       | SQL & Python   |
+| Data Visualization        | Tableau        |
+| Automation                | Alteryx        |
+| Project Management        | JIRA           |
+
 ## 💼 Professional Experience
 - **Equity Data Specialist at Bloomberg**
   - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
