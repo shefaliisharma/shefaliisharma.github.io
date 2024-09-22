@@ -27,7 +27,8 @@ I use Microsoft Excel, Power Query, Tableau and Alteryx daily at my current role
 
 ## 💼 Professional Experience
 
-* **Sr. Business Analyst at CIBC** \| _via RAISE LIMITED (Contract)_<p> </p> Jul, 2024 - Current 
+* **Sr. Business Analyst at CIBC** \| _via RAISE LIMITED (Contract)_
+   Jul, 2024 - Current 
   - Build new and improved the accuracy & reliability of the existing business intelligence dashboards in Tableau.
   - Automate business process using Microsoft PowerQuery and Alteryx
   - Support Project Managers with their budget reporting & spending analysis
