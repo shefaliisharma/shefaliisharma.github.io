@@ -1,7 +1,7 @@
 # Hello, I'm Shefali Sharma 👋
 
 ## 🚀 About Me
-I'm a Data Analyst with a passion for turning data into actionable insights and powerful stories. With experience at renowned firms like Bloomberg and JPMorgan, I've honed my skills in data analysis, financial reporting, and market trend analysis. I'm now exploring opportunities in Toronto, Canada, aiming to leverage my skills in new and challenging environments.
+With over four years of experience in the financial industry, I excel in enhancing data quality, advancing data pipelines, and creating impactful business dashboards using Tableau/PowerBI and SQL. My passion for harnessing the power of data to drive meaningful change makes me a dynamic and results-driven Data Analyst specializing in delivering high-impact business insights.
 
 ---
 # 📊 Data Projects:
@@ -14,17 +14,23 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
 ---
 ## 🛠️ Tools & Technologies Overview:
 
-| Tech                      | Tool           |
-|---------------------------|----------------|
-| Exploratory Data Analysis | SQl & MS Excel |
-| Data Extraction           | SQL            |
-| Data Transformation       | SQL & Python   |
-| Data Visualization        | Tableau        |
-| Automation                | Alteryx        |
-| Project Management        | JIRA           |
+| Tech        | Expertise       |
+|-------------|:----------------|
+| SQL         | 🟢 🟢 🟢 🟢 ⚪️  |
+| Python      | 🟢 🟢 🟢 ⚪️ ⚪️  |
+| Power Query | 🟢 🟢 🟢 🟢 🟢  |
+| Tableau     | 🟢 🟢 🟢 🟢 🟢  |
+| Alteryx     | 🟢 🟢 🟢 🟢 ⚪️  |
+| Ms Access   | 🟢 🟢 🟢 🟢 ⚪️  |
+
+I use Microsoft Excel, Power Query, Tableau and Alteryx daily at my current role in CIBC, Toronto ON. 
 
 ## 💼 Professional Experience
-- **Equity Data Specialist at Bloomberg**
+- **Sr. Business Analyst at CIBC** | _via RAISE LIMITED (Contract)_
+  - Build new and improved the accuracy & reliability of the existing business intelligence dashboards in Tableau.
+  - Managed the spend reports for 45 million dollars worth of allocated funds and reduced the variance b/w actual and estimates by an impressive 18%.
+
+- **Equity Data Analyst at Bloomberg**
   - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
   - Was involved in analyzing market regulations & trends, improving data processes, and collaborating across departments within several business initiatives to support product development.
   - Collaborated with diverse teams to improve data quality and functionality.
@@ -34,8 +40,8 @@ I'm a Data Analyst with a passion for turning data into actionable insights and 
   - Continuously improved business process efficiency and automated them using Alteryx and Tableau.
 
 ## 🎓 Education
-- **MBA in Finance**, [T A Pai Management Institute](https://www.tapmi.edu.in/programs/mba/), 2020
-- **B.Pharm**, [Indian Institute of Technology, Varanasi](https://iitbhu.ac.in/dept/phe), 2017
+- **MBA**, [T A Pai Management Institute](https://www.tapmi.edu.in/programs/mba/), 2020
+- **Bachelors**, [Indian Institute of Technology, Varanasi](https://iitbhu.ac.in/dept/phe), 2017
 
 ### 👩🏽‍💻 Online Education 
 - Exploratory Data Analysis in SQL, **Datacamp** \| [View Certificate](assets/shefalisharma_sql_certificate.pdf) 
