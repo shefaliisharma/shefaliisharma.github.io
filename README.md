@@ -26,16 +26,17 @@ With over four years of experience in the financial industry, I excel in enhanci
 I use Microsoft Excel, Power Query, Tableau and Alteryx daily at my current role in CIBC, Toronto ON. 
 
 ## 💼 Professional Experience
-- **Sr. Business Analyst at CIBC** | _via RAISE LIMITED (Contract)_
-  - Build new and improved the accuracy & reliability of the existing business intelligence dashboards in Tableau.
-  - Managed the spend reports for 45 million dollars worth of allocated funds and reduced the variance b/w actual and estimates by an impressive 18%.
 
-- **Equity Data Analyst at Bloomberg**
+* **Sr. Business Analyst at CIBC** \| _via RAISE LIMITED (Contract)_<p> </p> Jul, 2024 - Current 
+  - Build new and improved the accuracy & reliability of the existing business intelligence dashboards in Tableau.
+  - Automate business process using Microsoft PowerQuery and Alteryx
+  - Support Project Managers with their budget reporting & spending analysis
+* **Equity Data Analyst at Bloomberg** <p> </p> Apr, 2022 - Feb, 2024
+  - Supported Bloomberg Functions: FA \<GO\>, MODL \<GO\>, EE \<GO\>
   - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
   - Was involved in analyzing market regulations & trends, improving data processes, and collaborating across departments within several business initiatives to support product development.
   - Collaborated with diverse teams to improve data quality and functionality.
-
-- **Financial Analyst at J.P. Morgan**
+* **Financial Analyst at J.P. Morgan** <p> </p> Apr, 2020 - Apr, 2022
   - Collaborated across finance departments to support reporting requirements, working on various projects and resolving system issues to enhance reporting accuracy and efficiency.
   - Continuously improved business process efficiency and automated them using Alteryx and Tableau.
 
