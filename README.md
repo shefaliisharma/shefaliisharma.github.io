@@ -6,11 +6,11 @@ With over four years of experience in the financial industry, I excel in enhanci
 ---
 # 📊 Data Projects:
 
-| [![RC151Assistant](assets/rc151assistant_thumbnail.png)](https://rc151assistant.streamlit.app) | **[RC151 Assistant Github](https://github.com/shefaliisharma/RC151Assistant)**<br/> WebApp using Streamlit & Pandas \| **Technologies**: Python |
-|------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)                 | [![goodgrief](assets/goodgrief.jpeg)](https://shefaliisharma.github.io/goodgrief)                                                               |
-| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)**              | **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**                                                                        |
-| Exploratory Analysis \| **Technologies**: SQL & Python                                         | Storytelling with Data \| **Technologies**: SQL & Tableau                                                                                       |
+| [![RC151Assistant](assets/rc151assistant_thumbnail.png)](https://rc151assistant.streamlit.app) | **[RC151 Assistant Github](https://github.com/shefaliisharma/RC151Assistant)** <br/> WebApp using Streamlit & Pandas <br/> **Technologies**: Python <br/> Click on the image to open the app |
+|------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)                 | [![goodgrief](assets/goodgrief.jpeg)](https://shefaliisharma.github.io/goodgrief)                                                                                                            |
+| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)**              | **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**                                                                                                                     |
+| Exploratory Analysis \| **Technologies**: SQL & Python                                         | Storytelling with Data \| **Technologies**: SQL & Tableau                                                                                                                                    |
 
 ---
 ## 🛠️ Tools & Technologies Overview:
@@ -41,27 +41,17 @@ I use Microsoft Excel, Power Query, Tableau and Alteryx daily at my current role
   - Collaborated across finance departments to support reporting requirements, working on various projects and resolving system issues to enhance reporting accuracy and efficiency.
   - Continuously improved business process efficiency and automated them using Alteryx and Tableau.
 
-## 🎓 Education
-- **MBA**, [T A Pai Management Institute](https://www.tapmi.edu.in/programs/mba/), 2020
-- **Bachelors**, [Indian Institute of Technology, Varanasi](https://iitbhu.ac.in/dept/phe), 2017
-
-### 👩🏽‍💻 Online Education 
+### 👩🏽‍💻 Online Certifications 
 - Exploratory Data Analysis in SQL, **Datacamp** \| [View Certificate](assets/shefalisharma_sql_certificate.pdf) 
 - Window Functions Course, **LearnSQL.com** \| [View Certificate](https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa)
 - Financial & Valuation Modeling, **Wall Street Prep** \| [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
 - Using Python for Research, **HarvardX** \| [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93) 
 
-## 🛠 Skills
-- Advanced SQL and Python programming
-- Expertise in Bloomberg Terminal, Microsoft Excel and Tableau
-- Strong analytical and problem-solving abilities
-- Excellent written and verbal communication
-
 ## 🤝 Connect with Me
+#### I'm always open to interesting conversations and opportunities. Let's connect! 
+
 - LinkedIn: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
 - Email: [shefali.finance@gmail.com](mailto:shefali.finance@gmail.com)
 
-### I'm always open to interesting conversations and opportunities. Let's connect! 
 
-## 🔍 Looking Forward
-I am particularly interested in roles that allow me to dive deeper into data analytics within the business, finance, or healthcare sectors. If you're looking for someone who can transform data into decisions, let's talk!
+
