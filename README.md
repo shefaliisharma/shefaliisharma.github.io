@@ -6,10 +6,12 @@ With over four years of experience in the financial industry, I excel in enhanci
 ---
 # 📊 Data Projects:
 
-| [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)    | [![goodgrief](assets/goodgrief.jpeg)](https://shefaliisharma.github.io/goodgrief) |
-|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)** | **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**          |
-| Exploratory Analysis \| **Technologies**: SQL & Python                            | Storytelling with Data \| **Technologies**: SQL & Tableau                         |
+|                                                                                                        |                                                                                   |
+|--------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [![RC151Assistant](assets/rc151assistant_movie.mov)](https://github.com/shefaliisharma/RC151Assistant) | **[RC151 Assistant](https://github.com/shefaliisharma/RC151Assistant)**           |                                                                                                        |                                                                                       |
+| [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)                         | [![goodgrief](assets/goodgrief.jpeg)](https://shefaliisharma.github.io/goodgrief) |
+| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)**                      | **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**          |
+| Exploratory Analysis \| **Technologies**: SQL & Python                                                 | Storytelling with Data \| **Technologies**: SQL & Tableau                         |
 
 ---
 ## 🛠️ Tools & Technologies Overview:
