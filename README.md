@@ -1,16 +1,16 @@
 # Hello, I'm Shefali Sharma 👋
 
 ## 🚀 About Me
-With over four years of experience in the financial industry, I excel in enhancing data quality, advancing data pipelines, and creating impactful business dashboards using Tableau/PowerBI and SQL. My passion for harnessing the power of data to drive meaningful change makes me a dynamic and results-driven Data Analyst specializing in delivering high-impact business insights.
+I live in Toronto, ON. I am currently employed with CIBC and possess 5 years of experience in Financial Industry. <br/> **I am passionate to harness the power of data to drive meaningful change.** 
 
 ---
 # 📊 Data Projects:
 
-| [![RC151Assistant](assets/rc151assistant_thumbnail.png)](https://rc151assistant.streamlit.app) | **[RC151 Assistant Github](https://github.com/shefaliisharma/RC151Assistant)** <br/> WebApp using Streamlit & Pandas <br/> **Technologies**: Python <br/> Click on the image to open the app |
-|------------------------------------------------------------------------------------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)                 | [![goodgrief](assets/goodgrief.jpeg)](https://shefaliisharma.github.io/goodgrief)                                                                                                            |
-| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)**              | **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**                                                                                                                     |
-| Exploratory Analysis \| **Technologies**: SQL & Python                                         | Storytelling with Data \| **Technologies**: SQL & Tableau                                                                                                                                    |
+| [![RC151Assistant](assets/rc151assistant_thumbnail.png)](https://rc151assistant.streamlit.app) | **[RC151 Assistant Github](https://github.com/shefaliisharma/RC151Assistant)** <br/> WebApp using Streamlit & Pandas <br/> **Technologies**: Python <br/> _Click on the image to open the app_ |
+|------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| [![holymoly](assets/holymoly.jpeg)](https://shefaliisharma.github.io/holymoly)                 | [![goodgrief](assets/goodgrief.jpeg)](https://shefaliisharma.github.io/goodgrief)                                                                                                              |
+| **[Apple Music Dataset SQL Analysis](https://shefaliisharma.github.io/holymoly)**              | **[IMDb Dataset Analysis](https://shefaliisharma.github.io/goodgrief/)**                                                                                                                       |
+| Exploratory Analysis \| **Technologies**: SQL & Python                                         | Storytelling with Data \| **Technologies**: SQL & Tableau                                                                                                                                      |
 
 ---
 ## 🛠️ Tools & Technologies Overview:
@@ -47,9 +47,9 @@ I use Microsoft Excel, Power Query, Tableau and Alteryx daily at my current role
 - Financial & Valuation Modeling, **Wall Street Prep** \| [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
 - Using Python for Research, **HarvardX** \| [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93) 
 
-## 🤝 Connect with Me
-#### I'm always open to interesting conversations and opportunities. Let's connect! 
+### 🤝 Connect with Me
 
+#### I am eager to work on any interesting project that makes a meaningful impact. Let's connect!
 - LinkedIn: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
 - Email: [shefali.finance@gmail.com](mailto:shefali.finance@gmail.com)
 
