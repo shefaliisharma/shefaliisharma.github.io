@@ -1,9 +1,10 @@
 # Hello, I'm Shefali Sharma 👋
 
 ## 🚀 About Me
-I live in Toronto, ON. I am currently employed with CIBC and possess 5 years of experience in Financial Industry. <br/> **I am passionate to harness the power of data to drive meaningful change.** 
+I live in Toronto, ON. I am currently employed with EQ Bank and possess 6 years of experience in Financial Industry. <br/> **I am passionate to harness the power of data to drive meaningful change.** 
 
 ---
+
 # 📊 Data Projects:
 
 | [![RC151Assistant](assets/rc151assistant_thumbnail.png)](https://rc151assistant.streamlit.app) | **[RC151 Assistant Github](https://github.com/shefaliisharma/RC151Assistant)** <br/> WebApp using Streamlit & Pandas <br/> **Technologies**: Python <br/> _Click on the image to open the app_ |
@@ -13,43 +14,58 @@ I live in Toronto, ON. I am currently employed with CIBC and possess 5 years of 
 | Exploratory Analysis \| **Technologies**: SQL & Python                                         | Storytelling with Data \| **Technologies**: SQL & Tableau                                                                                                                                      |
 
 ---
-## 🛠️ Tools & Technologies Overview:
+---
+## 🛠️ Tools & Technologies
 
-| Tech        | Expertise       |
-|-------------|:----------------|
-| SQL         | 🟢 🟢 🟢 🟢 ⚪️  |
-| Python      | 🟢 🟢 🟢 ⚪️ ⚪️  |
-| Power Query | 🟢 🟢 🟢 🟢 🟢  |
-| Tableau     | 🟢 🟢 🟢 🟢 🟢  |
-| Alteryx     | 🟢 🟢 🟢 🟢 ⚪️  |
-| Ms Access   | 🟢 🟢 🟢 🟢 ⚪️  |
+| Tech            | Expertise       |
+|-----------------|:----------------|
+| SQL             | 🟢 🟢 🟢 🟢 🟢  |
+| Python (pandas) | 🟢 🟢 🟢 🟢 ⚪️  |
+| Power Query / M | 🟢 🟢 🟢 🟢 🟢  |
+| Tableau         | 🟢 🟢 🟢 🟢 🟢  |
+| Power BI / DAX  | 🟢 🟢 🟢 🟢 ⚪️  |
+| Alteryx         | 🟢 🟢 🟢 🟢 ⚪️  |
+| Anaplan         | 🟢 🟢 🟢 🟢 ⚪️  |
 
-I use Microsoft Excel, Power Query, Tableau and Alteryx daily at my current role in CIBC, Toronto ON. 
+Day to day I work in SQL Server and Python, building data pipelines and 
+transformation logic across large lending and treasury datasets.
 
 ## 💼 Professional Experience
 
-* **Sr. Business Analyst at CIBC** \| Jul, 2024 - Current 
-  - Build new and improved the accuracy & reliability of the existing business intelligence dashboards in Tableau.
-  - Automate business process using Microsoft PowerQuery and Alteryx
-  - Support Project Managers with their budget reporting & spending analysis
-* **Equity Data Analyst at Bloomberg** \| Apr, 2022 - Feb, 2024
-  - Supported Bloomberg Functions: FA \<GO\>, MODL \<GO\>, EE \<GO\>
-  - Specialized in managing and enhancing financial datasets through internal systems and proprietary software of Bloomberg.
-  - Was involved in analyzing market regulations & trends, improving data processes, and collaborating across departments within several business initiatives to support product development.
-  - Collaborated with diverse teams to improve data quality and functionality.
-* **Financial Analyst at J.P. Morgan** \| Apr, 2020 - Apr, 2022
-  - Collaborated across finance departments to support reporting requirements, working on various projects and resolving system issues to enhance reporting accuracy and efficiency.
-  - Continuously improved business process efficiency and automated them using Alteryx and Tableau.
+* **Senior Financial Analyst, Data Systems & Analytics — EQ Bank** | Jun 2025 – Present
+  - Engineer SQL and Python pipelines feeding forecasting models across eight product 
+    lines — transforming loan-level data for 60,000+ loans and bulk-loading ~700,000 
+    monthly records via ODBC
+  - Lead the in-house data workstream for a bank-wide Anaplan implementation with 
+    Deloitte, owning requirements, model build, and QA across four sprints
+  - Automated a manual recurring reserves report into a three-click SQL and Power 
+    Automate workflow
+  - Supported migration of commercial data to Microsoft Fabric and validated the 
+    medallion architecture (bronze and gold layers)
+* **Senior Business Analyst — CIBC** | Jul 2024 – Jun 2025
+  - Built and improved business intelligence dashboards in Tableau
+  - Automated aggregation of 100+ Excel spend reports with an Alteryx macro, cutting 
+    data-prep time from 6–8 hours to 15–20 minutes
+  - Supported project managers with budget reporting and spend analysis
+* **Equity Data Analyst — Bloomberg** | Apr 2022 – Feb 2024
+  - Built a Python script for the Content Acquisition team using MODL earnings data, 
+    surfacing key statistics to support data-provider negotiations
+  - Used Bloomberg Query Language to analyze financial disclosures across an equity 
+    data portfolio and validate data accuracy
+  - Supported Bloomberg functions FA \<GO\>, MODL \<GO\>, EE \<GO\>
+* **Financial Analyst — J.P. Morgan** | Apr 2020 – Apr 2022
+  - Reduced a 16-hour extraction and transformation process for trade, investor, and 
+    regional metrics to under 10 minutes using SQL and Alteryx
+  - Automated weekly wealth-management report distribution with a Python script
 
-### 👩🏽‍💻 Online Certifications 
-- Exploratory Data Analysis in SQL, **Datacamp** \| [View Certificate](assets/shefalisharma_sql_certificate.pdf) 
-- Window Functions Course, **LearnSQL.com** \| [View Certificate](https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa)
-- Financial & Valuation Modeling, **Wall Street Prep** \| [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
-- Using Python for Research, **HarvardX** \| [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93) 
+### 👩🏽‍💻 Certifications
+- Anaplan Level 2 Model Builder
+- Window Functions, **LearnSQL.com** | [View Certificate](https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa)
+- Using Python for Research, **HarvardX** | [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93)
+- Exploratory Data Analysis in SQL, **DataCamp** | [View Certificate](assets/shefalisharma_sql_certificate.pdf)
+- Financial & Valuation Modeling, **Wall Street Prep** | [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
 
-### 🤝 Connect with Me
-
-#### I am eager to work on any interesting project that makes a meaningful impact. Let's connect!
+### 🤝 Connect
 - LinkedIn: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
 - Email: [shefali.finance@gmail.com](mailto:shefali.finance@gmail.com)
 
