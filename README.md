@@ -63,10 +63,10 @@ transformation logic across large lending and treasury datasets.
 
 ### 👩🏽‍💻 Certifications
 - Anaplan Level 2 Model Builder
-- Window Functions, **LearnSQL.com** | [View Certificate](https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa)
-- Using Python for Research, **HarvardX** | [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93)
-- Exploratory Data Analysis in SQL, **DataCamp** | [View Certificate](assets/shefalisharma_sql_certificate.pdf)
-- Financial & Valuation Modeling, **Wall Street Prep** | [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
+- Window Functions, **LearnSQL.com**  [View Certificate](https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa)
+- Using Python for Research, **HarvardX**  [View Credential](https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93)
+- Exploratory Data Analysis in SQL, **DataCamp**  [View Certificate](assets/shefalisharma_sql_certificate.pdf)
+- Financial & Valuation Modeling, **Wall Street Prep**  [View Credential](https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw)
 
 ### 🤝 Connect
 - LinkedIn: [Shefali Sharma](https://www.linkedin.com/in/shefaliisharma/)
