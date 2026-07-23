@@ -35,7 +35,7 @@ transformation logic across large lending and treasury datasets.
   - Engineer SQL and Python pipelines feeding forecasting models across eight product 
     lines — transforming loan-level data for 60,000+ loans and bulk-loading ~700,000 
     monthly records via ODBC
-  - Lead the in-house data workstream for a bank-wide Anaplan implementation with 
+  - Lead the in-house data workstreams for a bank-wide Anaplan implementation with 
     Deloitte, owning requirements, model build, and QA across four sprints
   - Automated a manual recurring reserves report into a three-click SQL and Power 
     Automate workflow
