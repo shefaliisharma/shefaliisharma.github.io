@@ -14,18 +14,17 @@ I live in Toronto, ON. I am currently employed with EQ Bank and possess 6 years 
 | Exploratory Analysis \| **Technologies**: SQL & Python                                         | Storytelling with Data \| **Technologies**: SQL & Tableau                                                                                                                                      |
 
 ---
----
 ## 🛠️ Tools & Technologies
 
-| Tech            | Expertise       |
-|-----------------|:----------------|
-| SQL             | 🟢 🟢 🟢 🟢 🟢  |
-| Python (pandas) | 🟢 🟢 🟢 🟢 ⚪️  |
-| Power Query / M | 🟢 🟢 🟢 🟢 🟢  |
-| Tableau         | 🟢 🟢 🟢 🟢 🟢  |
-| Power BI / DAX  | 🟢 🟢 🟢 🟢 ⚪️  |
-| Alteryx         | 🟢 🟢 🟢 🟢 ⚪️  |
-| Anaplan         | 🟢 🟢 🟢 🟢 ⚪️  |
+| Tech            | Expertise      |
+|-----------------|:---------------|
+| SQL             | 🟢 🟢 🟢 🟢 🟢|
+| Python (pandas) | 🟢 🟢 🟢 🟢 ⚪️|
+| Power Query / M | 🟢 🟢 🟢 🟢 🟢|
+| Tableau         | 🟢 🟢 🟢 🟢 🟢|
+| Power BI / DAX  | 🟢 🟢 🟢 🟢 ⚪️|
+| Alteryx         | 🟢 🟢 🟢 🟢 ⚪️|
+| Anaplan         | 🟢 🟢 🟢 🟢 ⚪️|
 
 Day to day I work in SQL Server and Python, building data pipelines and 
 transformation logic across large lending and treasury datasets.
