@@ -1,0 +1,448 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Shefali Sharma</title>
+<meta name="description" content="Shefali Sharma — Senior Financial Analyst, Data Systems &amp; Analytics. Turning lending and treasury data into decisions.">
+
+<!-- FONTS (the only external resource this page loads) -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Public+Sans:ital,wght@0,400;0,500;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap">
+
+<style>
+/* ============================================================
+   DESIGN TOKENS  —  "The Ledger"
+   ============================================================ */
+:root{
+  --paper:#FBFAF7; --surface:#FFFFFF; --ink:#1A1D22; --muted:#5B636E; --faint:#8A919C;
+  --rule:#E7E4DD; --rule-2:#D7D3CA; --accent:#16704F; --accent-ink:#0E4C36; --accent-soft:#E9F1EC;
+  --shadow:0 1px 2px rgba(20,30,25,.04), 0 8px 24px -12px rgba(20,30,25,.12);
+  --maxw:1120px;
+  --font-display:'Archivo','Helvetica Neue',Arial,sans-serif;
+  --font-body:'Public Sans',-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif;
+  --font-mono:'IBM Plex Mono',ui-monospace,'SF Mono',Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --paper:#0E1013; --surface:#16191E; --ink:#E9EAE6; --muted:#9BA2AC; --faint:#6C7480;
+    --rule:#262A30; --rule-2:#333941; --accent:#46C08B; --accent-ink:#8FE0B8; --accent-soft:#15251D;
+    --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 30px -14px rgba(0,0,0,.6);
+  }
+}
+:root[data-theme="dark"]{
+  --paper:#0E1013; --surface:#16191E; --ink:#E9EAE6; --muted:#9BA2AC; --faint:#6C7480;
+  --rule:#262A30; --rule-2:#333941; --accent:#46C08B; --accent-ink:#8FE0B8; --accent-soft:#15251D;
+  --shadow:0 1px 2px rgba(0,0,0,.4), 0 10px 30px -14px rgba(0,0,0,.6);
+}
+
+/* ============================================================
+   BASE
+   ============================================================ */
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html{-webkit-text-size-adjust:100%}
+body{
+  margin:0;background:var(--paper);color:var(--ink);
+  font-family:var(--font-body);font-size:17px;line-height:1.6;
+  -webkit-font-smoothing:antialiased;text-rendering:optimizeLegibility;font-feature-settings:"kern" 1;
+}
+a{color:inherit}
+img{max-width:100%;display:block}
+::selection{background:var(--accent-soft);color:var(--accent-ink)}
+:focus-visible{outline:2px solid var(--accent);outline-offset:3px;border-radius:2px}
+
+.skip{position:absolute;left:-999px;top:0;background:var(--surface);color:var(--ink);
+  padding:10px 14px;border:1px solid var(--rule-2);border-radius:6px;z-index:20}
+.skip:focus{left:12px;top:12px}
+
+.eyebrow{
+  font-family:var(--font-mono);font-size:12px;font-weight:500;letter-spacing:.14em;
+  text-transform:uppercase;color:var(--faint);display:flex;align-items:center;gap:12px;margin:0 0 20px;
+}
+.eyebrow::after{content:"";flex:1;height:1px;background:var(--rule)}
+
+h2{font-family:var(--font-display);font-weight:700;font-size:clamp(21px,3vw,27px);
+  letter-spacing:-.01em;margin:0 0 6px;text-wrap:balance}
+
+/* ============================================================
+   TWO-COLUMN LAYOUT
+   Rail (identity + experience) is sticky on the left.
+   Main (summary + projects + skills + certs) is the stage.
+   ============================================================ */
+.layout{
+  max-width:var(--maxw);margin:0 auto;padding:0 24px;
+  display:grid;grid-template-columns:294px minmax(0,1fr);
+  column-gap:clamp(38px,5vw,72px);align-items:start;
+}
+.rail{position:sticky;top:0;align-self:start;padding:54px 0 40px}
+.main{min-width:0;padding:54px 0 40px}
+.main > section{padding:44px 0;border-top:1px solid var(--rule)}
+.main > section:first-of-type{border-top:0;padding-top:0}
+
+/* ============================================================
+   IDENTITY (top of rail)
+   ============================================================ */
+.status{
+  display:inline-flex;align-items:center;gap:8px;font-family:var(--font-mono);
+  font-size:11.5px;letter-spacing:.05em;color:var(--accent-ink);
+  background:var(--accent-soft);border:1px solid color-mix(in srgb,var(--accent) 26%,transparent);
+  padding:5px 11px;border-radius:100px;margin-bottom:20px;
+}
+.status .dot{width:7px;height:7px;border-radius:50%;background:var(--accent);
+  box-shadow:0 0 0 3px color-mix(in srgb,var(--accent) 22%,transparent)}
+.identity h1{
+  font-family:var(--font-display);font-weight:700;
+  font-size:clamp(30px,4.4vw,38px);line-height:1.03;letter-spacing:-.025em;margin:0 0 12px;text-wrap:balance;
+}
+.identity .role{font-size:16px;color:var(--ink);font-weight:500;margin:0 0 6px;line-height:1.4}
+.identity .role b{color:var(--accent-ink)}
+.identity .meta{font-family:var(--font-mono);font-size:12px;color:var(--muted);letter-spacing:.02em;margin:0 0 22px;line-height:1.6}
+
+.cta{display:flex;flex-direction:column;gap:10px}
+.btn{
+  display:inline-flex;align-items:center;justify-content:center;gap:9px;font-family:var(--font-mono);
+  font-size:13.5px;font-weight:500;text-decoration:none;padding:12px 16px;border-radius:9px;
+  border:1px solid var(--rule-2);background:var(--surface);color:var(--ink);
+  transition:border-color .15s,transform .15s;
+}
+.btn:hover{border-color:var(--accent);transform:translateY(-1px)}
+/* light: white text on forest green. dark: dark text on bright green. */
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+:root[data-theme="dark"] .btn.primary{color:#08130D}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]) .btn.primary{color:#08130D}}
+.btn.primary:hover{filter:brightness(1.05)}
+.btn svg{width:16px;height:16px;flex:none}
+
+/* ============================================================
+   EXPERIENCE (rail) — current role visible, earlier roles hidden
+   ============================================================ */
+#experience{margin-top:34px;padding-top:30px;border-top:1px solid var(--rule)}
+.role{margin:0}
+.role + .role{margin-top:22px}
+.role-head{display:flex;justify-content:space-between;align-items:baseline;gap:10px}
+.role .co{font-family:var(--font-display);font-weight:600;font-size:17px;letter-spacing:-.01em}
+.role .dates{font-family:var(--font-mono);font-size:11.5px;color:var(--muted);
+  white-space:nowrap;font-variant-numeric:tabular-nums;letter-spacing:.02em}
+.role .title{color:var(--accent-ink);font-weight:500;font-size:13.5px;margin-top:3px;line-height:1.35}
+.role .lines{margin:11px 0 0;padding:0;list-style:none;display:flex;flex-direction:column;gap:8px}
+.role .lines li{position:relative;padding-left:16px;color:var(--muted);font-size:13.5px;line-height:1.5}
+.role .lines li::before{content:"";position:absolute;left:0;top:9px;width:6px;height:1.5px;background:var(--accent)}
+
+.earlier{margin-top:24px;border-top:1px solid var(--rule);padding-top:18px}
+.earlier > summary{
+  list-style:none;cursor:pointer;font-family:var(--font-mono);font-size:11.5px;letter-spacing:.03em;
+  color:var(--muted);display:flex;align-items:flex-start;gap:9px;line-height:1.5;
+}
+.earlier > summary::-webkit-details-marker{display:none}
+.earlier > summary:hover{color:var(--accent-ink)}
+.earlier .pm{width:16px;height:16px;flex:none;border:1px solid var(--rule-2);border-radius:4px;
+  display:grid;place-items:center;color:var(--muted);transition:transform .2s,border-color .2s,color .2s;margin-top:1px}
+.earlier[open] .pm{transform:rotate(45deg);border-color:var(--accent);color:var(--accent)}
+.earlier-body{margin-top:22px;display:flex;flex-direction:column;gap:22px}
+
+/* ============================================================
+   SUMMARY (main, first)
+   ============================================================ */
+.summary-lede{font-size:clamp(19px,2.2vw,23px);line-height:1.5;color:var(--ink);
+  max-width:34ch;font-weight:500;letter-spacing:-.01em;text-wrap:balance;margin:0 0 16px}
+.summary-body{color:var(--muted);font-size:17px;max-width:60ch;margin:0}
+.summary-body b{color:var(--ink);font-weight:600}
+
+/* ============================================================
+   SELECTED FIGURES (hidden; for future PROJECT numbers)
+   ============================================================ */
+.figures{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:16px}
+.figure{background:var(--surface);border:1px solid var(--rule);border-radius:12px;box-shadow:var(--shadow);overflow:hidden}
+.figure>summary{list-style:none;cursor:pointer;padding:20px 20px 18px;display:block;transition:background .15s}
+.figure>summary::-webkit-details-marker{display:none}
+.figure>summary:hover{background:color-mix(in srgb,var(--accent-soft) 55%,transparent)}
+.figure .num{font-family:var(--font-mono);font-weight:600;font-variant-numeric:tabular-nums;
+  font-size:clamp(28px,4vw,38px);line-height:1;letter-spacing:-.02em;color:var(--accent-ink)}
+.figure .cap{color:var(--muted);font-size:14px;margin-top:10px;line-height:1.45}
+.figure .more{font-family:var(--font-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;
+  color:var(--faint);display:flex;align-items:center;gap:7px;margin-top:14px}
+.figure .more .pm{width:16px;height:16px;border:1px solid var(--rule-2);border-radius:4px;
+  display:grid;place-items:center;transition:transform .2s,border-color .2s;color:var(--muted)}
+.figure[open] .more .pm{transform:rotate(45deg);border-color:var(--accent);color:var(--accent)}
+.figure .story{padding:0 20px 20px;color:var(--muted);font-size:15px;line-height:1.6;
+  border-top:1px solid var(--rule);margin-top:2px;padding-top:16px}
+.figure .story b{color:var(--ink);font-weight:600}
+
+/* ============================================================
+   PROJECTS (main stage — the star)
+   ============================================================ */
+.projects{display:grid;grid-template-columns:repeat(auto-fill,minmax(230px,1fr));gap:20px}
+.project{display:flex;flex-direction:column;background:var(--surface);border:1px solid var(--rule);
+  border-radius:14px;overflow:hidden;box-shadow:var(--shadow);text-decoration:none;color:inherit;
+  transition:transform .18s,border-color .18s,box-shadow .18s}
+.project:hover{transform:translateY(-3px);border-color:var(--accent);box-shadow:0 14px 34px -16px rgba(20,60,45,.4)}
+.project .thumb{aspect-ratio:16/10;overflow:hidden;background:var(--accent-soft);border-bottom:1px solid var(--rule)}
+.project .thumb img{width:100%;height:100%;object-fit:cover;transition:transform .4s}
+.project:hover .thumb img{transform:scale(1.04)}
+.project .body{padding:18px 18px 20px;display:flex;flex-direction:column;flex:1}
+.project h3{font-family:var(--font-display);font-weight:600;font-size:18px;margin:0 0 8px;letter-spacing:-.01em}
+.project p{color:var(--muted);font-size:14.5px;margin:0 0 16px;flex:1}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin-bottom:16px}
+.tag{font-family:var(--font-mono);font-size:11px;letter-spacing:.03em;color:var(--muted);
+  border:1px solid var(--rule-2);border-radius:5px;padding:3px 8px}
+.project .link{font-family:var(--font-mono);font-size:13px;font-weight:500;color:var(--accent-ink);
+  display:inline-flex;align-items:center;gap:7px;margin-top:auto}
+.project .link .arw{transition:transform .18s}
+.project:hover .link .arw{transform:translate(3px,-3px)}
+
+/* ============================================================
+   SKILLS (main)
+   ============================================================ */
+.skills{display:grid;grid-template-columns:1fr 1fr;gap:12px 40px}
+.skill{display:grid;grid-template-columns:1fr auto;align-items:center;gap:14px;padding:9px 0;border-bottom:1px solid var(--rule)}
+.skill .name{font-family:var(--font-mono);font-size:13.5px;color:var(--ink);letter-spacing:.01em}
+.meter{display:flex;gap:5px}
+.meter i{width:20px;height:7px;border-radius:2px;background:var(--rule-2)}
+.meter i.on{background:var(--accent)}
+.skills-note{color:var(--muted);font-size:15px;margin:24px 0 0;max-width:60ch}
+
+/* ============================================================
+   CERTIFICATIONS (main)
+   ============================================================ */
+.certs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column}
+.cert{display:flex;flex-wrap:wrap;align-items:baseline;gap:6px 14px;padding:14px 0;border-top:1px solid var(--rule)}
+.cert:first-child{border-top:0}
+.cert .c-name{font-weight:500;font-size:16px}
+.cert .c-org{font-family:var(--font-mono);font-size:12px;color:var(--faint);letter-spacing:.03em}
+.cert .c-link{margin-left:auto;font-family:var(--font-mono);font-size:12.5px;color:var(--accent-ink);
+  text-decoration:none;white-space:nowrap;display:inline-flex;gap:6px;align-items:center}
+.cert .c-link:hover{text-decoration:underline}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+footer{border-top:1px solid var(--rule);margin-top:8px}
+.foot{max-width:var(--maxw);margin:0 auto;padding:24px;display:flex;flex-wrap:wrap;gap:8px 20px;
+  justify-content:space-between;align-items:center;font-family:var(--font-mono);font-size:12px;color:var(--faint)}
+.foot a{color:var(--muted);text-decoration:none}
+.foot a:hover{color:var(--accent-ink)}
+
+/* ============================================================
+   RESPONSIVE  —  stack + reorder to: name, summary, projects,
+   technology, experience, certifications
+   ============================================================ */
+@media (max-width:860px){
+  .layout{display:flex;flex-direction:column;padding:0 20px}
+  .rail,.main{display:contents}          /* promote children to flex items */
+  .rail{position:static}
+  .identity{order:1;padding:44px 0 4px}
+  #summary{order:2}
+  #projects{order:3}
+  #skills{order:4}
+  #experience{order:5;margin-top:0}
+  #certs{order:6}
+  #figures{order:2}                       /* hidden anyway */
+  .identity, .main > section{padding-top:34px;padding-bottom:34px}
+  .identity{border-top:0;padding-top:44px}
+  .main > section:first-of-type{border-top:1px solid var(--rule)}  /* summary now gets a divider */
+  .cta{flex-direction:row;flex-wrap:wrap}
+  .btn{flex:1 1 auto;min-width:150px}
+}
+@media (max-width:460px){
+  .skills{grid-template-columns:1fr;gap:0}
+}
+@media (prefers-reduced-motion:reduce){
+  *{transition:none!important}
+  .project:hover{transform:none}
+}
+</style>
+</head>
+<body>
+<a class="skip" href="#projects">Skip to projects</a>
+
+<div class="layout">
+
+  <!-- ==========================================================
+       LEFT RAIL  —  identity + experience (sticky on desktop)
+       ========================================================== -->
+  <aside class="rail">
+
+    <!-- IDENTITY -->
+    <div class="identity">
+      <span class="status"><span class="dot"></span>Open to senior data roles</span>
+      <h1>Shefali Sharma</h1>
+      <p class="role">Senior Financial Analyst, <b>Data&nbsp;Systems&nbsp;&amp;&nbsp;Analytics</b></p>
+      <p class="meta">Toronto, ON<br>SQL &amp; Python · 6 yrs in financial data</p>
+      <div class="cta">
+        <a class="btn primary" href="mailto:shefali.finance@gmail.com?subject=Hello%20Shefali">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m22 7-10 6L2 7"/></svg>
+          Get in touch
+        </a>
+        <a class="btn" href="https://www.linkedin.com/in/shefaliisharma/" target="_blank" rel="noopener">
+          <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.45 20.45h-3.56v-5.57c0-1.33-.03-3.04-1.85-3.04-1.85 0-2.14 1.45-2.14 2.94v5.67H9.35V9h3.42v1.56h.05c.48-.9 1.64-1.85 3.37-1.85 3.6 0 4.27 2.37 4.27 5.46v6.28zM5.34 7.43a2.06 2.06 0 1 1 0-4.13 2.06 2.06 0 0 1 0 4.13zM7.12 20.45H3.55V9h3.57v11.45zM22.22 0H1.77C.79 0 0 .77 0 1.72v20.56C0 23.23.79 24 1.77 24h20.45c.98 0 1.78-.77 1.78-1.72V1.72C24 .77 23.2 0 22.22 0z"/></svg>
+          LinkedIn
+        </a>
+      </div>
+    </div>
+
+    <!-- EXPERIENCE  —  current role visible; earlier roles behind the toggle.
+         TO EDIT a role: change .co, .dates, .title, and the <li> bullets.
+         TO ADD an earlier role: copy one <div class="role"> inside .earlier-body. -->
+    <section id="experience">
+      <p class="eyebrow">Experience</p>
+
+      <div class="role current">
+        <div class="role-head"><span class="co">EQ Bank</span><span class="dates">2025 — Now</span></div>
+        <div class="title">Senior Financial Analyst, Data Systems &amp; Analytics</div>
+        <ul class="lines">
+          <li>Engineer SQL and Python pipelines that feed forecasting models across the bank&rsquo;s product lines.</li>
+          <li>Lead the in-house data workstream for a bank-wide Anaplan implementation — requirements, model build, and QA.</li>
+          <li>Automate recurring manual reporting into lightweight SQL and Power Automate workflows.</li>
+          <li>Support the migration of commercial data to Microsoft Fabric.</li>
+        </ul>
+      </div>
+
+      <details class="earlier">
+        <summary><span class="pm">+</span> Earlier roles — CIBC · Bloomberg · J.P. Morgan</summary>
+        <div class="earlier-body">
+
+          <div class="role">
+            <div class="role-head"><span class="co">CIBC</span><span class="dates">2024 — 25</span></div>
+            <div class="title">Senior Business Analyst</div>
+            <ul class="lines">
+              <li>Built and improved business-intelligence dashboards in Tableau.</li>
+              <li>Automated aggregation of recurring Excel spend reports with an Alteryx macro, cutting data-prep time dramatically.</li>
+            </ul>
+          </div>
+
+          <div class="role">
+            <div class="role-head"><span class="co">Bloomberg</span><span class="dates">2022 — 24</span></div>
+            <div class="title">Equity Data Analyst</div>
+            <ul class="lines">
+              <li>Built a Python script for the Content Acquisition team using MODL earnings data to support data-provider negotiations.</li>
+              <li>Used Bloomberg Query Language to analyze financial disclosures and validate data accuracy.</li>
+              <li>Supported Bloomberg functions FA&nbsp;&lt;GO&gt;, MODL&nbsp;&lt;GO&gt;, EE&nbsp;&lt;GO&gt;.</li>
+            </ul>
+          </div>
+
+          <div class="role">
+            <div class="role-head"><span class="co">J.P. Morgan</span><span class="dates">2020 — 22</span></div>
+            <div class="title">Financial Analyst</div>
+            <ul class="lines">
+              <li>Re-engineered a lengthy extraction and transformation process for trade, investor, and regional metrics down to minutes using SQL and Alteryx.</li>
+              <li>Automated weekly wealth-management report distribution with a Python script.</li>
+            </ul>
+          </div>
+
+        </div>
+      </details>
+    </section>
+
+  </aside>
+
+  <!-- ==========================================================
+       MAIN STAGE  —  summary, projects, technology, certifications
+       ========================================================== -->
+  <div class="main">
+
+    <!-- SUMMARY -->
+    <section id="summary">
+      <p class="eyebrow">Summary</p>
+      <p class="summary-lede">I turn lending and treasury data into forecasts, pipelines, and decisions.</p>
+      <p class="summary-body">Six years across <b>J.P. Morgan, Bloomberg, CIBC, and EQ Bank</b> — building the SQL and Python that forecasting runs on, and the automation that turns manual reporting into something reliable. Below are a few things I&rsquo;ve built in my own time.</p>
+    </section>
+
+    <!-- SELECTED FIGURES  —  HIDDEN FOR NOW (note the "hidden" attribute
+         on the <section> tag; that is what keeps it off the page).
+         Reserve this for PROJECT numbers you add later, not employer metrics.
+         TO SWITCH ON: delete the word "hidden" from the <section> tag. -->
+    <section id="figures" hidden>
+      <p class="eyebrow">Selected figures</p>
+      <div class="figures">
+        <details class="figure">
+          <summary>
+            <div class="num">2%</div>
+            <div class="cap">short caption — what this number measures</div>
+            <div class="more"><span class="pm">+</span> Behind the number</div>
+          </summary>
+          <div class="story"><b>Project name.</b> Two or three sentences: what the number is, what you did to reach it, and why it mattered — then a link out to the Tableau / dbt / SQL work.</div>
+        </details>
+      </div>
+    </section>
+
+    <!-- PROJECTS  —  each card links out to the real work.
+         TO ADD/REMOVE: copy or delete one <a class="project"> block. -->
+    <section id="projects">
+      <p class="eyebrow">Projects</p>
+      <h2>Things I&rsquo;ve built with data</h2>
+      <div class="projects" style="margin-top:24px">
+
+        <a class="project" href="https://rc151assistant.streamlit.app" target="_blank" rel="noopener">
+          <div class="thumb"><img src="assets/rc151assistant_thumbnail.png" alt="RC151 Assistant app screenshot" loading="lazy"></div>
+          <div class="body">
+            <h3>RC151 Assistant</h3>
+            <p>A Streamlit web app that walks users through the CRA&rsquo;s RC151 benefit form as a guided, question-by-question assistant.</p>
+            <div class="tags"><span class="tag">Python</span><span class="tag">Streamlit</span><span class="tag">Pandas</span></div>
+            <span class="link">Open the app <span class="arw">↗</span></span>
+          </div>
+        </a>
+
+        <a class="project" href="https://shefaliisharma.github.io/holymoly" target="_blank" rel="noopener">
+          <div class="thumb"><img src="assets/holymoly.jpeg" alt="Apple Music SQL analysis" loading="lazy"></div>
+          <div class="body">
+            <h3>Apple Music SQL Analysis</h3>
+            <p>Exploratory SQL over an Apple Music dataset — surfacing listening patterns and catalog trends through queries.</p>
+            <div class="tags"><span class="tag">SQL</span><span class="tag">Python</span></div>
+            <span class="link">View analysis <span class="arw">↗</span></span>
+          </div>
+        </a>
+
+        <a class="project" href="https://shefaliisharma.github.io/goodgrief/" target="_blank" rel="noopener">
+          <div class="thumb"><img src="assets/goodgrief.jpeg" alt="IMDb dataset analysis in Tableau" loading="lazy"></div>
+          <div class="body">
+            <h3>IMDb Dataset Analysis</h3>
+            <p>Storytelling with data: an IMDb dataset explored in SQL and brought to life as a Tableau narrative.</p>
+            <div class="tags"><span class="tag">SQL</span><span class="tag">Tableau</span></div>
+            <span class="link">View story <span class="arw">↗</span></span>
+          </div>
+        </a>
+
+      </div>
+    </section>
+
+    <!-- TECHNOLOGY -->
+    <section id="skills">
+      <p class="eyebrow">Tools &amp; technologies</p>
+      <div class="skills">
+        <div class="skill"><span class="name">SQL</span><span class="meter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span></div>
+        <div class="skill"><span class="name">Tableau</span><span class="meter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span></div>
+        <div class="skill"><span class="name">Power Query / M</span><span class="meter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i></span></div>
+        <div class="skill"><span class="name">Python (pandas)</span><span class="meter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i></i></span></div>
+        <div class="skill"><span class="name">Power BI / DAX</span><span class="meter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i></i></span></div>
+        <div class="skill"><span class="name">Alteryx</span><span class="meter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i></i></span></div>
+        <div class="skill"><span class="name">Anaplan</span><span class="meter"><i class="on"></i><i class="on"></i><i class="on"></i><i class="on"></i><i></i></span></div>
+      </div>
+      <p class="skills-note">Day to day I work in SQL Server and Python — building data pipelines and transformation logic across large lending and treasury datasets.</p>
+    </section>
+
+    <!-- CERTIFICATIONS -->
+    <section id="certifications">
+      <p class="eyebrow">Certifications</p>
+      <ul class="certs">
+        <li class="cert"><span class="c-name">Anaplan Level 2 Model Builder</span><span class="c-org">Anaplan</span></li>
+        <li class="cert"><span class="c-name">Window Functions</span><span class="c-org">LearnSQL.com</span><a class="c-link" href="https://learnsql.com/files/course-certificate/iqlEgEvksirjTtDbcqmNZzDIOVwYamjRlKvFQwMa" target="_blank" rel="noopener">Certificate ↗</a></li>
+        <li class="cert"><span class="c-name">Using Python for Research</span><span class="c-org">HarvardX</span><a class="c-link" href="https://courses.edx.org/certificates/e4060b141ad241769b9c3d3204a3bc93" target="_blank" rel="noopener">Credential ↗</a></li>
+        <li class="cert"><span class="c-name">Exploratory Data Analysis in SQL</span><span class="c-org">DataCamp</span><a class="c-link" href="assets/shefalisharma_sql_certificate.pdf" target="_blank" rel="noopener">Certificate ↗</a></li>
+        <li class="cert"><span class="c-name">Financial &amp; Valuation Modeling</span><span class="c-org">Wall Street Prep</span><a class="c-link" href="https://certification.wallstreetprep.com/b6d09be6-abab-4fcd-90d0-79ce1fc62bad#gs.6vkwhw" target="_blank" rel="noopener">Credential ↗</a></li>
+      </ul>
+    </section>
+
+  </div>
+</div>
+
+<footer>
+  <div class="foot">
+    <span>© 2026 Shefali Sharma · Toronto, ON</span>
+    <span><a href="mailto:shefali.finance@gmail.com">shefali.finance@gmail.com</a> · <a href="https://www.linkedin.com/in/shefaliisharma/" target="_blank" rel="noopener">LinkedIn</a></span>
+  </div>
+</footer>
+
+</body>
+</html>
